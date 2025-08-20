@@ -45,6 +45,7 @@ This project is a **React + Vite application** that demonstrates two advanced fr
 ### Data Grid
 ![Data Grid Screenshot](./screenshots/data-grid.png)
 ![Data Grid Screenshot](./screenshots/data-grid2.png)
+![Data Grid Screenshot](./screenshots/data-grid3.png)
 
 ---
 
