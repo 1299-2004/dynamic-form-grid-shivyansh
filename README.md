@@ -57,7 +57,7 @@ Imported form schema directly from Firebase Realtime Database:
 [Vercel Deployment](https://dynamic-form-grid-shivyansh.vercel.app/)
 
 ## 💻 GitHub Repository
-[GitHub Repo](https://github.com/1299-2004/dynamic-form-grid-shivyansh)
+[GitHub Repo](https://github.com/1299-2004/dynamic-form-grid-shivyansh.git)
 
 
 ---
