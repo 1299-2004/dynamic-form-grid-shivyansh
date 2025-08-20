@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here this template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
@@ -40,9 +40,11 @@ This project is a **React + Vite application** that demonstrates two advanced fr
 ## 📸 Screenshots
 ### Dynamic Form Builder
 ![Form Builder Screenshot](./screenshots/form-builder.png)
+![Form Builder Screenshot](./screenshots/form-builder-json.png)
 
 ### Data Grid
 ![Data Grid Screenshot](./screenshots/data-grid.png)
+![Data Grid Screenshot](./screenshots/data-grid2.png)
 
 ---
 
