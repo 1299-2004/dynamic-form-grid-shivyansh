@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 # ⚡ Dynamic Form Builder + Data Grid (React + Vite)
 
+This project was built as part of an assignment for the React.js role.  
+It demonstrates a **Dynamic Form Builder** (with Firebase schema import/export) and a **Data Grid** with filtering, sorting, and pagination using **@tanstack/react-table**.
+
 This project is a **React + Vite application** that demonstrates two advanced frontend features:
 
 1. **Dynamic Form Builder**  
@@ -58,6 +61,23 @@ Imported form schema directly from Firebase Realtime Database:
 
 ## 💻 GitHub Repository
 [GitHub Repo](https://github.com/1299-2004/dynamic-form-grid-shivyansh.git)
+
+## 🔗 Firebase Example Import
+Paste the following URL into the **“Import from Firebase”** section of the form builder:
+
+👉 [Firebase Schema JSON](https://form-builder-shiv-default-rtdb.firebaseio.com/form.json)
+
+Sample schema:
+```json
+{
+  "title": "Imported Form Example",
+  "fields": [
+    { "id": "name", "label": "Full Name", "type": "text", "required": true },
+    { "id": "age", "label": "Age", "type": "number", "min": 0, "max": 120 },
+    { "id": "dob", "label": "DOB", "type": "date" },
+    { "id": "role", "label": "Role", "type": "dropdown", "options": ["Admin", "User", "Guest"], "required": true }
+  ]
+}
 
 
 ---
